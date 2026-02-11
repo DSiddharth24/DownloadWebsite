@@ -12,7 +12,7 @@ export default function Download() {
                             Version 1.0.4 is now available for early access.
                         </p>
                         <div className={styles.downloadBox}>
-                            <a href="#" className={styles.downloadBtn}>
+                            <a href="/apk/CrewLeaf_v1.0.4.apk" download className={styles.downloadBtn}>
                                 <span className={styles.btnIcon}>📥</span>
                                 <div className={styles.btnText}>
                                     <span className={styles.top}>Download Now</span>
