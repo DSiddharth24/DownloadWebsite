@@ -8,8 +8,8 @@ const items = [
         category: 'Environment'
     },
     {
-        src: '/images/mechanization-feature.png',
-        title: 'Smart Drones',
+        src: '/images/hero-bg.png',
+        title: 'Smart Mechanisation',
         category: 'Technology'
     },
     {

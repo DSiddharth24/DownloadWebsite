@@ -8,7 +8,7 @@ const features = [
     },
     {
         title: 'Smart Mechanisation',
-        description: 'Integrated IoT and drone support for precision agriculture and field monitoring.',
+        description: 'Integrated IoT support for precision agriculture and field monitoring.',
         icon: '🛰️'
     },
     {
