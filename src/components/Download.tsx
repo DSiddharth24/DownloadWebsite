@@ -12,16 +12,13 @@ export default function Download() {
                             Version 1.0.4 is now available for early access.
                         </p>
                         <div className={styles.downloadBox}>
-                            <a href="/CrewLeaf_v1.0.4.apk" download className={styles.downloadBtn}>
+                            <a href="/CrewLeaf-prod-release.apk" download className={styles.downloadBtn}>
                                 <span className={styles.btnIcon}>📥</span>
                                 <div className={styles.btnText}>
                                     <span className={styles.top}>Download Now</span>
-                                    <span className={styles.bottom}>CrewLeaf_v1.0.4.apk (24 MB)</span>
+                                    <span className={styles.bottom}>CrewLeaf-prod-release.apk (8.8 MB)</span>
                                 </div>
                             </a>
-                            <p className={styles.apkDisclaimer}>
-                                *Please provide the APK keys to activate the download link.
-                            </p>
                         </div>
                     </div>
                     <div className={styles.badges}>
